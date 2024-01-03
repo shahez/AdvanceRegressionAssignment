@@ -46,7 +46,7 @@ GitHub Repository Link: Submit a public GitHub repository link containing the ab
 ## Acknowledgements
 - This project was inspired by the need to enhance the predisction of pricing in the housing market
 - Gratitude to the various online resources, blogs, and documentation that offered valuable explanations, tutorials, and examples related to multiple linear regression, bike-sharing datasets, and model evaluation techniques. 
-- This project was based on [Bike Sharing Case Study](https://learn.upgrad.com/course/4701).
+- This project was based on [Advance Regression Assignment](https://learn.upgrad.com/course/4701).
 
 
 ## Contact
